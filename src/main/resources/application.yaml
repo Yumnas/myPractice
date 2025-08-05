@@ -1,0 +1,13 @@
+spring:
+  application:
+    name : demo
+  email:
+    apiURL: https://api.email.com
+    timeout: 1000
+    enabled: true
+
+
+  sada:
+    paymentGateway : paypal
+
+
